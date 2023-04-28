@@ -1,0 +1,16 @@
+s:1077:"<p>Se ativado, os alunos só podem tentar responder ao questionário usando o Safe Exam Browser.
+As opções disponíveis são:</p>
+
+<ul>
+<li>Não
+<br />O Safe Exam Browser não é necessário para iniciar o questionário.</li>
+<li>Sim – Usar um modelo existente
+<br />Um modelo para a configuração do Safe Exam Browser pode ser usado. Os modelos são gerenciados na administração do site. Suas configurações manuais substituem as configurações no modelo.</li>
+<li>Sim – Configurar manualmente
+<br />Não será utilizado nenhum modelo para a configuração do Safe Exam Browser. Você pode configurar o Safe Exam Browser manualmente.</li>
+<li>Sim – Carregar minha própria configuração
+<br />Você pode carregar seu próprio arquivo de configuração do Safe Exam Browser. Todas as configurações manuais e o uso de modelos serão desativados.</li>
+<li>Sim – Usar a configuração do cliente SEB
+<br />Nenhuma configuração do Safe Exam Browser está no Moodle. O questionário pode ser iniciado com qualquer configuração do Safe Exam Browser.</li>
+</ul>
+";
