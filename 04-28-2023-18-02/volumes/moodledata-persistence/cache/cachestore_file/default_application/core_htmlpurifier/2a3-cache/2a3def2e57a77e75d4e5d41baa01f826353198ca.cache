@@ -1,8 +1,0 @@
-s:1116:"<p>An IMS content package is a collection of files which are packaged according to an agreed standard so they can be reused in different systems. The IMS content package module enables such content packages to be uploaded as a zip file and added to a course as a resource.</p>
-
-<p>Content is usually displayed over several pages, with navigation between the pages. There are various options for displaying content in a pop-up window, with a navigation menu or buttons etc.</p>
-
-<p>An IMS content package may be used for presenting multimedia content and animations.</p>
-
-<div class="helpdoclink"><a href="https://docs.moodle.org/401/en/mod/imscp/view" target="_blank" rel="noreferrer noopener"><span class="rui-icon-container"><img class="icon iconhelp icon-pre" alt="" src="https://educaspace.eadstock.com.br/theme/image.php/alpha/core/1682433607/book" /></span>More help<span class="rui-icon-container"><img class="icon fa fa-externallink fa-fw" alt="Opens in new window" title="Opens in new window" src="https://educaspace.eadstock.com.br/theme/image.php/alpha/core/1682433607/i/externallink" /></span></a></div>
-";
