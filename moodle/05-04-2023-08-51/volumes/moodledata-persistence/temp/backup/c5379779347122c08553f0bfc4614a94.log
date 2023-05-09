@@ -1,0 +1,19 @@
+[2 de maio de 2023 11:11] [info] instantiating backup controller c5379779347122c08553f0bfc4614a94
+[2 de maio de 2023 11:11] [debug] setting controller status to 100
+[2 de maio de 2023 11:11] [debug] loading controller plan
+[2 de maio de 2023 11:11] [debug] setting controller status to 300
+[2 de maio de 2023 11:11] [debug] applying plan defaults
+[2 de maio de 2023 11:11] [debug] setting controller status to 400
+[2 de maio de 2023 11:11] [debug] setting file inclusion to 
+[2 de maio de 2023 11:11] [info] checking plan security
+[2 de maio de 2023 11:11] [debug] setting controller status to 700
+[2 de maio de 2023 11:11] [debug] saving controller to db
+[2 de maio de 2023 11:11] [debug] calculating controller checksum 6963a425717fd018aa8e76799c53d836
+[2 de maio de 2023 11:11] [debug] loading controller from db
+[2 de maio de 2023 11:11] [debug] setting file inclusion to 1
+[2 de maio de 2023 11:11] [debug] setting controller status to 800
+[2 de maio de 2023 11:11] [debug] saving controller to db
+[2 de maio de 2023 11:11] [debug] calculating controller checksum dc160d008335abbb89f2c64481963b1b
+[2 de maio de 2023 11:11] [debug] loading controller from db
+[2 de maio de 2023 11:11] [debug] setting controller status to 1000
+[2 de maio de 2023 11:11] [debug] saving controller to db

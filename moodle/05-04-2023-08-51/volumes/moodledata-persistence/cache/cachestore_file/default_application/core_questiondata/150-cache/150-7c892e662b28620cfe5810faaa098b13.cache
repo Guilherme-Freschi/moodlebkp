@@ -1,0 +1,27 @@
+O:8:"stdClass":26:{s:2:"id";s:3:"150";s:8:"category";s:2:"92";s:6:"parent";s:1:"0";s:4:"name";s:12:"4ª Questão";s:12:"questiontext";s:2200:"<p dir="ltr" style="text-align: left;"><strong></strong></p>
+<p dir="ltr"><span id="docs-internal-guid-20549c68-7fff-172a-1cd0-dd15d065b16d">Observe a questão:</span></p><span id="docs-internal-guid-20549c68-7fff-172a-1cd0-dd15d065b16d"><br>
+    <p dir="ltr">Segundo Aristóteles, o conhecimento das causas é superior ao conhecimento dos fatos.</p>
+    <p dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PORQUE</p>
+    <p dir="ltr">A ciência para Aristóteles caracteriza-se por ser um saber contemplativo, enquanto a arte é um saber produtivo.</p>
+    <p dir="ltr">Analisando-se as afirmações acima, conclui-se que:</p>
+    <ol type="a">
+        <li dir="ltr" aria-level="1">
+            <p dir="ltr" role="presentation">As duas afirmações são verdadeiras, e a segunda justifica a primeira.</p>
+        </li>
+        <li dir="ltr" aria-level="1">
+            <p dir="ltr" role="presentation">As duas afirmações são verdadeiras, e a segunda não justifica a primeira.</p>
+        </li>
+        <li dir="ltr" aria-level="1">
+            <p dir="ltr" role="presentation">A primeira afirmação é verdadeira, e a segunda é falsa.</p>
+        </li>
+        <li dir="ltr" aria-level="1">
+            <p dir="ltr" role="presentation">A primeira afirmação é falsa, e a segunda é verdadeira.</p>
+        </li>
+        <li dir="ltr" aria-level="1">
+            <p dir="ltr" role="presentation">As duas afirmações são falsas.</p>
+        </li>
+    </ol>
+    <p dir="ltr">Fonte: <a href="https://slideplayer.com.br/amp/1249076/">https://slideplayer.com.br/amp/1249076/</a> Acesso em dezembro de 2021</p><br>
+    <p dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;Considerando os tipos de avaliação objetiva, assinale a alternativa correspondente a questão descrita acima.&nbsp;</p>
+</span><br><br>
+<p></p>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:175:"<p dir="ltr" style="text-align: left;">Está ligada pela palavra “porque” indicando razão ou justificativa para ser analisada em relação ao exposto acima.&nbsp;<br></p>";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:46:"educaspace.eadstock.com.br+230503060854+QDOjaM";s:11:"timecreated";s:10:"1683094134";s:12:"timemodified";s:10:"1683094134";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:3:"208";s:6:"status";s:5:"ready";s:9:"versionid";s:3:"150";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:3:"109";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"92";s:4:"name";s:51:"Default for Produção de questões - Como elaborar";s:9:"contextid";s:3:"208";s:4:"info";s:95:"The default category for questions shared in context 'Produção de questões - Como elaborar'.";s:10:"infoformat";s:1:"0";s:5:"stamp";s:46:"educaspace.eadstock.com.br+230503060322+c0kGRF";s:6:"parent";s:2:"91";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"150";s:10:"questionid";s:3:"150";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:23:"Your answer is correct.";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:33:"Your answer is partially correct.";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:25:"Your answer is incorrect.";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:4:"ABCD";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:5:{i:746;O:8:"stdClass":7:{s:2:"id";s:3:"746";s:8:"question";s:3:"150";s:6:"answer";s:66:"<p dir="ltr">Questão objetiva de asserção razão</p><p><br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:747;O:8:"stdClass":7:{s:2:"id";s:3:"747";s:8:"question";s:3:"150";s:6:"answer";s:93:"<p dir="ltr" style="text-align: left;">Questão objetiva de ordenação ou seriação<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:748;O:8:"stdClass":7:{s:2:"id";s:3:"748";s:8:"question";s:3:"150";s:6:"answer";s:80:"<p dir="ltr" style="text-align: left;">Questão objetiva de associação<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:749;O:8:"stdClass":7:{s:2:"id";s:3:"749";s:8:"question";s:3:"150";s:6:"answer";s:86:"<p dir="ltr" style="text-align: left;">Questão objetiva de resposta múltipla<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:750;O:8:"stdClass":7:{s:2:"id";s:3:"750";s:8:"question";s:3:"150";s:6:"answer";s:83:"<p dir="ltr" style="text-align: left;">Questão objetiva de resposta única<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}}

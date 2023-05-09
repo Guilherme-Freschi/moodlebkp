@@ -1,0 +1,1 @@
+s:360:"<strong>Stack trace: </strong> <ul style="text-align:left;"><li>line 200 of /admin/tool/uploaduser/locallib.php: moodle_exception thrown</li><li>line 193 of /admin/tool/uploaduser/classes/process.php: call to uu_validate_user_upload_columns()</li><li>line 76 of /admin/tool/uploaduser/index.php: call to tool_uploaduser\process-&gt;get_file_columns()</li></ul>";

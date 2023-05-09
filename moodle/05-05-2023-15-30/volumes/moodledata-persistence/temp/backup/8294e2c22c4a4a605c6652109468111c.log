@@ -1,0 +1,14 @@
+[5 May 2023 at 10:10 am] [info] instantiating backup controller 8294e2c22c4a4a605c6652109468111c
+[5 May 2023 at 10:10 am] [debug] setting controller status to 100
+[5 May 2023 at 10:10 am] [debug] loading controller plan
+[5 May 2023 at 10:10 am] [debug] setting controller status to 300
+[5 May 2023 at 10:10 am] [debug] applying plan defaults
+[5 May 2023 at 10:10 am] [debug] setting controller status to 400
+[5 May 2023 at 10:10 am] [debug] setting file inclusion to 
+[5 May 2023 at 10:10 am] [info] checking plan security
+[5 May 2023 at 10:10 am] [debug] setting controller status to 500
+[5 May 2023 at 10:10 am] [info] checking plan security
+[5 May 2023 at 10:10 am] [info] checking plan security
+[5 May 2023 at 10:10 am] [info] checking plan security
+[5 May 2023 at 10:10 am] [debug] saving controller to db
+[5 May 2023 at 10:10 am] [debug] calculating controller checksum 4807dd4358e7c3c197a223b8b2dc693a

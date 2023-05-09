@@ -1,0 +1,20 @@
+sh: 1: /usr/sbin/sendmail: not found
+[02-May-2023 11:11:02 America/Sao_Paulo] instantiating backup controller c5379779347122c08553f0bfc4614a94
+[02-May-2023 11:11:02 America/Sao_Paulo] setting controller status to 100
+[02-May-2023 11:11:02 America/Sao_Paulo] loading controller plan
+[02-May-2023 11:11:02 America/Sao_Paulo] setting controller status to 300
+[02-May-2023 11:11:02 America/Sao_Paulo] applying plan defaults
+[02-May-2023 11:11:02 America/Sao_Paulo] setting controller status to 400
+[02-May-2023 11:11:02 America/Sao_Paulo] setting file inclusion to 
+[02-May-2023 11:11:02 America/Sao_Paulo] checking plan security
+[02-May-2023 11:11:02 America/Sao_Paulo] setting controller status to 700
+[02-May-2023 11:11:02 America/Sao_Paulo] saving controller to db
+[02-May-2023 11:11:02 America/Sao_Paulo] calculating controller checksum 6963a425717fd018aa8e76799c53d836
+[02-May-2023 11:11:02 America/Sao_Paulo] loading controller from db
+[02-May-2023 11:11:02 America/Sao_Paulo] setting file inclusion to 1
+[02-May-2023 11:11:02 America/Sao_Paulo] setting controller status to 800
+[02-May-2023 11:11:02 America/Sao_Paulo] saving controller to db
+[02-May-2023 11:11:02 America/Sao_Paulo] calculating controller checksum dc160d008335abbb89f2c64481963b1b
+[02-May-2023 11:11:02 America/Sao_Paulo] loading controller from db
+[02-May-2023 11:11:03 America/Sao_Paulo] setting controller status to 1000
+[02-May-2023 11:11:03 America/Sao_Paulo] saving controller to db
